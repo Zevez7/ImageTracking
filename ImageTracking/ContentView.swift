@@ -14,7 +14,7 @@ struct ContentView: View {
 
     var body: some View {
        
-        Text("Image Recongnition")
+        Text("Image Tracking")
             .font(.largeTitle)
         
         
